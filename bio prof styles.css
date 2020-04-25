@@ -1,0 +1,56 @@
+html {
+   font:24px;
+ background-image: url(empty%20set.JPG);
+}
+
+
+body{
+    background-color:;
+   font-family:'Open Sans Condensed', sans-serif;
+   font-size:24px;
+   line-height:1.5;
+   padding:2px 2px 2px 2px;  
+   color: beige;
+}
+h1{
+   margin:0 auto;
+    font-weight:300;
+    font:300;
+    text-align: center;  
+    color: beige;
+}
+
+{
+    font-family:'Open Sans Condensed', sans-serif;
+    line-height:2em;
+    padding:1em 1em;
+}    
+   figcaption{
+       font font-family: fantasy;    
+}
+
+ul{
+    margin:0;
+    padding:0;
+    list-style-type:none;
+        
+}
+
+li{
+    display: inline;
+    margin:20px;
+    color:beige;
+}
+
+    p{ 
+        color:beige;
+        padding: 1em 1em;
+        
+    }
+
+.img{
+     
+     height: 200;
+     padding: 1em;
+     border: 1px black;
+}

@@ -1,0 +1,56 @@
+html {
+   font:24px;
+
+}
+body{
+    background:darkgray;
+    font-family:'Open Sans Condensed', sans-serif;
+    font-size:24px;
+    line-height:1.5;
+    padding:2px 2px 2px 2px; 
+}
+
+header{
+    background-color:gainsboro;
+}
+
+h1{
+   text-align: center; 
+ 
+}
+
+figure{
+    padding-left:10px;
+     border:10px;
+    margin-right:10px;
+}
+    section div{
+    width:10px ;
+    margin:10px;
+}
+ul{
+    margin:0;
+    padding:0;
+    list-style-type:none;  
+}
+
+li{
+    
+    display: inline;
+    margin:20px;
+}
+    
+   figcaption{
+       
+       font font-family: fantasy;    
+}
+
+P{ 
+    align-content:space-around;
+    font-family:'Open Sans Condensed', sans-serif ;
+    line-height:2em;
+    padding: 1em 1em;
+}
+    
+
+
