@@ -1,6 +1,6 @@
 html {
    font:24px;
- background-image: url(empty%20set.JPG);
+ background-image: url(background.jpeg;
 }
 
 
@@ -10,14 +10,14 @@ body{
    font-size:24px;
    line-height:1.5;
    padding:2px 2px 2px 2px;  
-   color: beige;
+   color: cyan;
 }
 h1{
    margin:0 auto;
     font-weight:300;
     font:300;
     text-align: center;  
-    color: beige;
+    color: cyan;
 }
 
 {
@@ -39,11 +39,11 @@ ul{
 li{
     display: inline;
     margin:20px;
-    color:beige;
+    color:cyan;
 }
 
     p{ 
-        color:beige;
+        color:cyan;
         padding: 1em 1em;
         
     }
