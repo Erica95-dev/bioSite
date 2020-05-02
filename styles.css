@@ -1,0 +1,81 @@
+html {
+   font:24px;
+}
+
+body {
+    background:darkgray;
+    font-family:'Open Sans Condensed', sans-serif;
+    font-size:24px;
+    line-height:1.5;
+    padding:2px 2px 2px 2px; 
+}
+
+header  {
+      background-color:rosybrown;
+    }
+    
+
+section{
+   display: flex;
+   flex-direction: column;
+    background-color:lightcyan;
+}
+
+section div{
+    background color:darkgrey;
+    width:10px ;
+    margin:10px;
+}
+ul{
+    padding: inherit
+    margin:0;
+    padding:0;
+    list-style-type:none;  
+}
+
+li{
+    
+    display: inline;
+    margin:20px;
+}
+h1  { 
+    margin:0 auto;
+    font-weight:300;
+    font:300;
+    text-align: center;
+}
+
+figure{
+    border-bottom-color: black;
+    margin-right:10px;
+    text-align:center;
+}
+
+p img{
+    padding:1em 1em;
+    
+}
+
+
+P {
+    font-family:'Open Sans Condensed', sans-serif;
+    line-height:2em;
+    padding:1em 1em;
+  }
+
+    
+P{
+    font-family:'Open Sans Condensed', sans-serif ;
+    line-height:2em;
+    padding: 1em 1em;
+}
+
+
+h2{
+    text-align: center;
+    padding: inherit;
+    font-size:200;
+    font-weight: 200;
+}
+
+ 
