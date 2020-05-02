@@ -4,8 +4,7 @@ html {
     background-size: cover;
     background-repeat:no-repeat;
 }
-
-
+/* update backgroun image */
 body{
     background-color:;
    font-family:'Open Sans Condensed', sans-serif;
@@ -49,3 +48,4 @@ li{
         padding: 1em 1em;
         
     }
+/* add more images and a videos*/
