@@ -1,0 +1,103 @@
+html {
+scroll-behavior:smooth;   
+background-color:darkcyan;
+font-family:font-family:'Oswald'Verdana,Arial,sans-serif;    
+}
+
+
+fig{
+    
+   background-repeat: no-repeat;
+   padding: 10px 10px;
+   align-content: center;
+}
+body {
+    margin:5px 5px;
+    padding:5px 5px;
+    font-family:font-family:'Oswald'Verdana,Arial,sans-serif;
+    font-size:24px;
+    font-style: oblique;
+    color:white;
+    
+}
+
+h1{
+   text-align: center; 
+    text-shadow:3px 3px black;
+   color:white;
+}
+h2{
+    text-align: center;
+   text-shadow:3px 3px black;
+    clear: both;
+}
+    
+img{
+ 
+    padding: 2px 2px;
+    margin:3px 3px;
+    overflow: hidden;
+}
+
+
+ul{
+    padding: inherit;
+    margin:0;
+    padding:0;
+    list-style-type:none; 
+    
+    
+}
+li{
+
+    display: inline;
+    margin:20px; 
+
+    }
+
+#profession{
+    clear: both;
+}
+
+  #box {
+     display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+   p{  
+    font-size:24px;
+    font-family:font-family:'Oswald'Verdana,Arial,sans-serif;
+    padding:3px 3px;
+     background-color:dimgray;
+     margin: 2px 2px;
+}
+
+ #box {
+     display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+}
+    #box1, #box3, #box5, #box7, #box9, #box11, #box13 {
+        width: 200px ;
+        height: 200px;
+}
+	
+
+#box2, #box4, #box6, #box8, #box10, #box12, #box14 {
+       width 200px;
+       height:200px;
+	
+}
+
+    #box {
+     display:flex;
+	flex-wrap:wrap;
+	justify-content:space-between;
+
+}
+
+
+footer{
+    clear: both;
+    
+}
